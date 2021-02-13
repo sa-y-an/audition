@@ -9,7 +9,7 @@ html,body{
 }
 
 .container{
-    height: 70vh;
+    height: 60vh;
     background: #112 url(//images.weserv.nl/?url=i.imgur.com/6QJjYMe.jpg)  center no-repeat;
     background-size:cover;
 }
@@ -154,7 +154,7 @@ body {
 
 
 .container2{
-    height: 70vh;
+    height: 100vh;
     background: #112 url(image1.jpg)  center no-repeat;
     background-size:cover;
     display: flex;
