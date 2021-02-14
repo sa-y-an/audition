@@ -293,3 +293,7 @@ p{
   padding: 2vh;
   border-radius: 5vh;
 }
+
+.zind {
+  z-index: 100;
+}
